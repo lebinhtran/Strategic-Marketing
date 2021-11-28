@@ -1,9 +1,4 @@
 # Strategic-Marketing
-## Discuss strategic  marketing involving Planning, Analysis & Strategies.
-## Evaluate the integration of all elements of the marketing mix: 
-### Product can be described in terms of 
-#### Product Life Cycle combining the stage of Introduction, Growth, Maturity, Decline.
-#### Portfolio models like Boston Consulting Groups matrix
-### Price
-### Promotion
-### Place
+## Analyse marketing issues and problems using a range of strategic marketing tools and frameworks, and develop appropriate marketing strategies using these critically analyse, research, communicate and present marketing ideas and reasonable marketing recommendations, synthesising information from multiple sources.##
+## Outline the processes of marketing strategy formulation and implementation and the ability to develop strategy recommendations for real-world marketing situations
+## Indicate contemporary approaches to monitoring, and reporting on strategic marketing performance and the ability to develop and justify recommendations for monitoring and performance analysis for a range of real-world situations
